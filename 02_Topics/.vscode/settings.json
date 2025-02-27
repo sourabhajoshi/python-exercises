@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./data",
+        "./12_Modules/01_",
+        "./12_Modules/01_"
+    ]
+}
